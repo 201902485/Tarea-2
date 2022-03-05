@@ -1,0 +1,3 @@
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\Programación 2\TAREAS\201902485_TAREA4\201902485_HOSPITAL\201902485_HOSPITAL\obj\x86\Debug\201902485_HOSPITAL.exe
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\Programación 2\TAREAS\201902485_TAREA4\201902485_HOSPITAL\201902485_HOSPITAL\obj\x86\Debug\201902485_HOSPITAL.xml
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\Programación 2\TAREAS\201902485_TAREA4\201902485_HOSPITAL\201902485_HOSPITAL\obj\x86\Debug\201902485_HOSPITAL.pdb
