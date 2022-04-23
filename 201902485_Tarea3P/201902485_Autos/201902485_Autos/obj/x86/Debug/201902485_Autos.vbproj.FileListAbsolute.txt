@@ -1,0 +1,9 @@
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\TERCER PARCIAL\201902485_Tarea3P\201902485_Autos\201902485_Autos\bin\Debug\201902485_Autos.exe
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\TERCER PARCIAL\201902485_Tarea3P\201902485_Autos\201902485_Autos\bin\Debug\201902485_Autos.pdb
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\TERCER PARCIAL\201902485_Tarea3P\201902485_Autos\201902485_Autos\bin\Debug\201902485_Autos.xml
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\TERCER PARCIAL\201902485_Tarea3P\201902485_Autos\201902485_Autos\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\TERCER PARCIAL\201902485_Tarea3P\201902485_Autos\201902485_Autos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\TERCER PARCIAL\201902485_Tarea3P\201902485_Autos\201902485_Autos\obj\x86\Debug\201902485_Autos.vbproj.GenerateResource.Cache
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\TERCER PARCIAL\201902485_Tarea3P\201902485_Autos\201902485_Autos\obj\x86\Debug\201902485_Autos.exe
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\TERCER PARCIAL\201902485_Tarea3P\201902485_Autos\201902485_Autos\obj\x86\Debug\201902485_Autos.xml
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\TERCER PARCIAL\201902485_Tarea3P\201902485_Autos\201902485_Autos\obj\x86\Debug\201902485_Autos.pdb
