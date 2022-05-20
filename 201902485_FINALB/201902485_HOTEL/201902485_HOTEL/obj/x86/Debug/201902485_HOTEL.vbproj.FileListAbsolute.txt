@@ -1,0 +1,9 @@
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\201902485_FINALB\201902485_HOTEL\201902485_HOTEL\bin\Debug\201902485_HOTEL.exe
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\201902485_FINALB\201902485_HOTEL\201902485_HOTEL\bin\Debug\201902485_HOTEL.pdb
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\201902485_FINALB\201902485_HOTEL\201902485_HOTEL\bin\Debug\201902485_HOTEL.xml
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\201902485_FINALB\201902485_HOTEL\201902485_HOTEL\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\201902485_FINALB\201902485_HOTEL\201902485_HOTEL\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\201902485_FINALB\201902485_HOTEL\201902485_HOTEL\obj\x86\Debug\201902485_HOTEL.vbproj.GenerateResource.Cache
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\201902485_FINALB\201902485_HOTEL\201902485_HOTEL\obj\x86\Debug\201902485_HOTEL.exe
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\201902485_FINALB\201902485_HOTEL\201902485_HOTEL\obj\x86\Debug\201902485_HOTEL.xml
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\201902485_FINALB\201902485_HOTEL\201902485_HOTEL\obj\x86\Debug\201902485_HOTEL.pdb
